@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/antoine/Documents/projet_perso/password_storage_project/console_pass_storage/PasswordManagement.cpp
+PasswordManagement.hpp
+/home/antoine/Documents/projet_perso/password_storage_project/console_pass_storage/PasswordManagement.hpp
+
+/home/antoine/Documents/projet_perso/password_storage_project/console_pass_storage/PasswordManagement.hpp
+iostream
+-
+fstream
+-
+string
+-
+
